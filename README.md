@@ -10,6 +10,7 @@ This web page is meant to keep track of the daily notes &/o questions for assign
 **Start-End:** Jan 9, 2023 - Feb 3, 2023
 
 - [Class 01](https://github.com/KMArtwork/reading-notes/blob/main/class-01.md)
+- [Class 02](https://github.com/KMArtwork/reading-notes/blob/main/class-02.md)
 
 
 -----
