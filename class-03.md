@@ -53,7 +53,7 @@ It *is not* a valid array because of the entry `fishing:hiking:rock_climbing` wh
  // evaluate this
  (a + c) + b;
 ```
-This will evaluate to "10dog". ``a + c` or `10 + false` will just evaluate to 10 because false is another way of saying `0`, so therefore we're not adding anything to `a`. Then we add `b`, or `dog` to it which results in `10dog`.
+This will evaluate to "10dog". `a + c` or `10 + false` will just evaluate to 10 because false is another way of saying `0`, so therefore we're not adding anything to `a`. Then we add `b`, or `dog` to it which results in `10dog`.
 
 
 5. **Describe a real world example of when a conditional statement should be used in a JavaScript program** We could use a conditional statement to determine whether or not we should turn the headlights of a car on or off. *If* it's dark outside we need to turn the headlights on, otherwise we don't need to turn them on.
