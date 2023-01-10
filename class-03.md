@@ -59,3 +59,8 @@ This will evaluate to "10dog". `a + c` or `10 + false` will just evaluate to 10 
 5. **Describe a real world example of when a conditional statement should be used in a JavaScript program** We could use a conditional statement to determine whether or not we should turn the headlights of a car on or off. *If* it's dark outside we need to turn the headlights on, otherwise we don't need to turn them on.
 
 6. **Give an example of when a loop is useful in JavaScript** A loop is useful if we need to execute a code block until a certain condition is met. For example, if we have an array of random numbers and we want to keep adding the numbers together until we reach a sum of 100, we can loop through the array and add the numbers together until we meet that threshold or until we reach the end of the array.
+
+## Things I Want to Know More About
+- What is bitwise assignment
+- What is shift assignment
+- Why does JS sometimes create shallow copies of an array vs. making an array a direct copy. In other words, if I have one array, `arrayA` and I write the line `let arrayB = arrayA`, why does making changes to `arrayB` also affect `arrayA`? I understand that it *does* affect both, but *why* does JavaScript handle it this way.
