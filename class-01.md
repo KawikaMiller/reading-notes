@@ -30,7 +30,7 @@ By all of the content as I continue to browse it
 
 3. An '<article>` is a block of related content that makes sense on its own without the rest of the web page, for example just a single blog post. A `<section>` is similar but it's more for grouping together various pieces of information into a single part, like a series of headings with a quick summary about each.
 
-4. A "typical" website usually has a `<head>` element which contains all the metadata, a `<body>` element which contains the `<header>`, `<main>` and `<footer>` elements. The `<header`> will typically contain things like the `<nav>` element, while the `<main> element will contain things like `<div>`s, `<p>`s, `<section>`s, etc, and the `<footer>` will usually contain things like copyright information or related links.
+4. A "typical" website usually has a `<head>` element which contains all the metadata, a `<body>` element which contains the `<header>`, `<main>`, and `<footer>` elements. The `<header>` will typically contain things like the `<nav>` element, while the `<main>` element will contain things like `<div>`s, `<p>`s, `<section>`s, etc, and the `<footer>` will usually contain things like copyright information or related links.
 
 5. A search engine will scan the information in a website's metadata and can potentially make your webpage appear higher in the relevant search results. We can give a `<meta>` tag the `name` attribute with a value of `description` and then also give it a `content` attribute and whatever value we assign that will appear as the little text blurb underneath the hyperlink displayed in the search results which will also influence the search engine.
 
