@@ -4,7 +4,16 @@ This topic is important because it covers the basics of web development. It expl
 
 ## Getting Started
 
-1. 
+1.
+```
+I first need an address, but where should I look?
+Ah yes, I'll look here in my web address book!
+I walk to the Server house, ask for information. 
+They say "Sure, Mr. Client, copy without hesitation!"
+I arrive back at home and I am quite astounded
+By all of the content as I continue to browse it
+```
+
 2. HTML is parsed first so that the browser can recognize any `<link>` &/o `<script>` elements. As the HTML is parsed, requests are sent back to the server for any CSS &/o JavaScript files and then parses those. The browser then generates a DOM tree for the HTML, CSSOM for the CSS, and compiles and executes the JavaScript. As everything is being built, the website starts to be visualized on the screen so that the user can see the content and interact with it.
 
 3. We can add images to a website by using the `<img>` tag and giving it an `src` attribute. The `src` attribute's value must be a valid path to the image you want to display which either on another website, `htttp://www.awebsite.com/apicture.jpg` or somewhere within the current website's directories, `./images/anotherpicture.jpg`.
