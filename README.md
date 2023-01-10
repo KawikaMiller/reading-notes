@@ -11,6 +11,7 @@ This web page is meant to keep track of the daily notes &/o questions for assign
 
 - [Class 01](https://kmartwork.github.io/reading-notes/class-01)
 - [Class 02](https://kmartwork.github.io/reading-notes/class-02)
+- [Class 03](https://kmartwork.github.io/reading-notes/class-03)
 
 
 -----
