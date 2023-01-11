@@ -10,7 +10,7 @@ These notes cover how to create hyperlinks on a webpage, basic rules about posit
 
 3. **What are some ways we can ensure links on our pages are accessibile to all readers?** By using "strong link text" which helps to indicate where the link goes. For example, instead of using "click here" you would write "about us" as the hyperlink text instead. If our hyperlink also includes an image of some kind, like an icon, we should also include the `alt` tag for our image which gives it a text description for people who use screen readers.
 
-(Source)[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a]
+[Source](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
 ## CSS Layout - Normal Flow & Positioning
 
