@@ -13,6 +13,7 @@ This web page is meant to keep track of the daily notes &/o questions for assign
 - [Class 02](https://kmartwork.github.io/reading-notes/class-02)
 - [Class 03](https://kmartwork.github.io/reading-notes/class-03)
 - [Class 04](https://kmartwork.github.io/reading-notes/class-04)
+- [Class 05](https://kmartwork.github.io/reading-notes/class-05)
 
 -----
 ## Code 301 - Intermediate Software Development
