@@ -27,5 +27,5 @@ These notes cover how to use different media tags like `<img>` and `<figure>` al
 5. **Describe two ways you could add spacing around the characters displayed in an `h1` element.** We can either use the properties `font-kerning` or `letter-spacing` which both essentially increase the space between the letters of a specified text element.
 
 ## Things I Want To Know
-- What would be the preferred use case for using <img> vs <figure> if our goal is to display a picture?
+- What would be the preferred use case for using `<img>` vs `<figure>` if our goal is to display a picture?
 - What is the preferred use case for monospace fonts besides just aesthetic reasons?
