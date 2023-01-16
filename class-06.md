@@ -1,6 +1,6 @@
 # Reading - Class 06
 
-These notes will cover basic information about JavaScript objects as well as introcutory information about the DOM, or Document Object Model.
+These notes will cover basic information about JavaScript objects as well as introductory information about the DOM, or Document Object Model.
 
 ## JavaScript - Object Basics
 
