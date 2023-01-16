@@ -9,11 +9,15 @@ This web page is meant to keep track of the daily notes &/o questions for assign
 ## Code 201 - Foundations of Software Development
 **Start-End:** Jan 9, 2023 - Feb 3, 2023
 
+### Week 01
 - [Class 01](https://kmartwork.github.io/reading-notes/class-01)
 - [Class 02](https://kmartwork.github.io/reading-notes/class-02)
 - [Class 03](https://kmartwork.github.io/reading-notes/class-03)
 - [Class 04](https://kmartwork.github.io/reading-notes/class-04)
 - [Class 05](https://kmartwork.github.io/reading-notes/class-05)
+
+### Week 02
+- [Class 06](https://kmartwork.github.io/reading-notes/class-06)
 
 -----
 ## Code 301 - Intermediate Software Development
