@@ -1,5 +1,5 @@
 # reading-notes
-This web page is meant to keep track of the daily notes &/o questions for assignments in Code 201 through Code Fellows.
+This web page is meant to keep track of the daily notes &/o questions for Code 201 - Code 401 through Code Fellows.
 
 -----
 ## ~~Code 102 - Intro to Software Development~~
