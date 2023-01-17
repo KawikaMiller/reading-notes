@@ -23,8 +23,5 @@ These notes will cover Domain Modeling, the basics of HTML tables, and JavaScrip
 1. **Explain prototypes and inheritance via an analogy from your previous work experience.** The longest job I ever held was at a small pizzeria so let's consider each pizza as an object. Whenever someone orders a pizza they ask for their preferred toppings and the size of the pizza, in terms of key-value pairs we could think of something like `pepperoni: double` or `size: large`. However, typically its implied that every pizza gets cheese and sauce as well. Instead of having to declare that every pizza object gets cheese and sauce, we can store that information in the `Pizza.prototype` property so that every pizza object that we instantiate inherits that information, saving us time (in regards to the order taking process) or memory (in regards to programming).
 
 ## Things I Want To Know More About
--n/a; i just feel like i need more experience / practice with `prototype` to better understand and cement that knowledge in my head.
-
-
-Things I Want to Know
 - What is the fundamental differences between instantiated and initialized?
+- Not really a question or anything I just feel like i need more experience / practice with `prototype` to better understand and cement that knowledge in my head.
