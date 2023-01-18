@@ -14,7 +14,7 @@ These notes will cover CSS Flexbox
 
 1. **What are some advantages of using flexbox over float?** When we use flexboxes we are able to more easily center child items vertically inside of their parent elements as well as making all children of a container take up an equal amount of the available width and/or height, regardless of how much space is actually available.
 
-2. ** How does this topic connect with your long term goals?** This topic connects with my long term goals because being able to use flexboxes will enable me to create more interesting and dynamic webpages &/o applications layouts which can then also be adapted to fit any size screen - like a phone, tablet, or desktop.
+2. **How does this topic connect with your long term goals?** This topic connects with my long term goals because being able to use flexboxes will enable me to create more interesting and dynamic webpages &/o applications layouts which can then also be adapted to fit any size screen - like a phone, tablet, or desktop.
 
 ## Things I Want To Know More About
 - n/a
