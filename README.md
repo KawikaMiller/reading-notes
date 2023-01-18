@@ -19,6 +19,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 ### Week 02
 - [Class 06](https://kmartwork.github.io/reading-notes/class-06)
 - [Class 07](https://kmartwork.github.io/reading-notes/class-07)
+- [Class 08](https://kmartwork.github.io/reading-notes/class-08)
 
 -----
 ## Code 301 - Intermediate Software Development
