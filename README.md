@@ -23,6 +23,9 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 09](https://kmartwork.github.io/reading-notes/class-09)
 - [Class 10](https://kmartwork.github.io/reading-notes/class-10)
 
+## Week 03
+- [Class 11](https://kmartwork.github.io/reading-notes/class-11)
+
 -----
 ## Code 301 - Intermediate Software Development
 **Start-End:** Feb 13, 2023 - Mar 10, 2023
