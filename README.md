@@ -25,6 +25,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 
 ## Week 03
 - [Class 11](https://kmartwork.github.io/reading-notes/class-11)
+- [Class 12](https://kmartwork.github.io/reading-notes/class-12)
 
 -----
 ## Code 301 - Intermediate Software Development
