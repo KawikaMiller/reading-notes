@@ -22,5 +22,5 @@ These notes will cover JavaScript canvas and Chart.js
 
 2. **How could Chart.js aid your previously created applications visually?** With the Salmon Cookies project we could have used a chart to visualize the differences in sales between each store location or show how each individual stores sales vary from hour to hour and better visualize when peak hours were.
 
-Things I Want To Know More About:
+## Things I Want To Know More About:
 - I would love to see a demo of how to install chart.js and import its features into a javascript file; I think I would be able to follow a guide but a demo I think would help cement the process in my head.
