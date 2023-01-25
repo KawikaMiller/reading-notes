@@ -10,11 +10,11 @@ This will briefly cover local storage and how to use it on websites
 
 3. **Local storage can store what type of data? How would you convert it to that type before storing?** Local storage only stores strings. If we have something that is a non-string, such as an object, we can convert that to a string using `JSON.stringify()` and give it an argument of the object that we want to store.
 
-`localStorage.setItem('car', JSON.stringify(car) );
+`localStorage.setItem('car', JSON.stringify(car) );`
 
 and when we want to get that information we can use `JSON.parse()`, e.g.
 
-JSON.parse( localStorage.getItem( 'car' ) );
+`JSON.parse( localStorage.getItem( 'car' ) );`
 
 ## Things I Want To Know
 - What are some of the guidelines / best practices for storing things in local storage.
