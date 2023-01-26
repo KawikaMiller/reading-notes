@@ -1,4 +1,4 @@
-#Reading - Class 14a - Psychological Safety 
+# Reading - Class 14a - Psychological Safety 
 
 
 ## What Google Learned From It's Quest to Build the Perfect Team
