@@ -34,6 +34,9 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 ## Code 301 - Intermediate Software Development
 **Start-End:** Feb 13, 2023 - Mar 10, 2023
 
+### Week 01
+- [Class 01](https://kmartwork.github.io/reading-notes/301_class-01)
+
 
 -----
 ## Code 401 - Advanced Software Development
