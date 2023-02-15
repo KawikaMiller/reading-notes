@@ -37,6 +37,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 ### Week 01
 - [Class 01](https://kmartwork.github.io/reading-notes/301_class-01)
 - [Class 02](https://kmartwork.github.io/reading-notes/301_class-02)
+- [Class 03](https://kmartwork.github.io/reading-notes/301_class-03)
 
 
 -----
