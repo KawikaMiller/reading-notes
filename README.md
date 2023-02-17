@@ -39,6 +39,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 02](https://kmartwork.github.io/reading-notes/301_class-02)
 - [Class 03](https://kmartwork.github.io/reading-notes/301_class-03)
 - [Class 04](https://kmartwork.github.io/reading-notes/301_class-04)
+- [Class 05](https://kmartwork.github.io/reading-notes/301_class-05)
 
 
 -----
