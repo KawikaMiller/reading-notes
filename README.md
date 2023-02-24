@@ -23,7 +23,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 09](https://kmartwork.github.io/reading-notes/class-09)
 - [Class 10](https://kmartwork.github.io/reading-notes/class-10)
 
-## Week 03
+### Week 03
 - [Class 11](https://kmartwork.github.io/reading-notes/class-11)
 - [Class 12](https://kmartwork.github.io/reading-notes/class-12)
 - [Class 13](https://kmartwork.github.io/reading-notes/class-13)
