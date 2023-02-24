@@ -43,6 +43,8 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 06](https://kmartwork.github.io/reading-notes/301_class-06)
 - [Class 07](https://kmartwork.github.io/reading-notes/301_class-07)
 - [Class 08](https://kmartwork.github.io/reading-notes/301_class-08)
+- [Class 09](https://kmartwork.github.io/reading-notes/301_class-09)
+- [Class 10](https://kmartwork.github.io/reading-notes/301_class-10)
 
 -----
 ## Code 401 - Advanced Software Development
