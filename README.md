@@ -48,6 +48,9 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 09](https://kmartwork.github.io/reading-notes/301_class-09)
 - [Class 10](https://kmartwork.github.io/reading-notes/301_class-10)
 
+### Week 3
+- [Class 11](https://kmartwork.github.io/reading-notes/301_class-11)
+
 -----
 ## Code 401 - Advanced Software Development
 **Start-End:** Mar 20, 2023 - May 26, 2023
