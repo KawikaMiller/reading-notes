@@ -51,6 +51,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 ### Week 3
 - [Class 11](https://kmartwork.github.io/reading-notes/301_class-11)
 - [Class 12](https://kmartwork.github.io/reading-notes/301_class-12)
+- [Class 13](https://kmartwork.github.io/reading-notes/301_class-13)
 
 -----
 ## Code 401 - Advanced Software Development
