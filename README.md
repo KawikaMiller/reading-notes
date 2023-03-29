@@ -57,5 +57,8 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 
 -----
 ## Code 401 - Advanced Software Development
-**Start-End:** Mar 20, 2023 - May 26, 2023
+**Start-End:** Apr 3, 2023 - Jun 9, 2023
+
+### Prework
+- [SQL] 
 
