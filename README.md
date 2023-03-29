@@ -60,5 +60,5 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 **Start-End:** Apr 3, 2023 - Jun 9, 2023
 
 ### Prework
-- [SQL] 
+- [SQL](https://kmartwork.github.io/reading-notes/SQL/sql_notes)
 
