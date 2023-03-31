@@ -61,4 +61,5 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 
 ### Prework
 - [SQL](https://kmartwork.github.io/reading-notes/SQL/sql_notes)
+- [Terminal Practice](https://kmartwork.github.io/reading-notes/practice_terminal)
 
