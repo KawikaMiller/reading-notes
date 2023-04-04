@@ -66,4 +66,5 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 ## Week 1
 - [Class 01](https://kmartwork.github.io/reading-notes/401_class01)
 - [Engineering Prep](https://kmartwork.github.io/reading-notes/401_engineeringPrep)
+- [Data Structures & Algorithms Prep](https://kmartwork.github.io/reading-notes/401_dataStructuresAndAlgorithmsPrep)
 
