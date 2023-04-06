@@ -69,4 +69,5 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Data Structures & Algorithms Prep](https://kmartwork.github.io/reading-notes/401/401_dataStructuresAndAlgorithmsPrep)
 - [Class 02](https://kmartwork.github.io/reading-notes/401/401_class02)
 - [Class 03](https://kmartwork.github.io/reading-notes/401/401_class03)
+- [Class 04](https://kmartwork.github.io/reading-notes/401/401_class04)
 
