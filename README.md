@@ -71,3 +71,5 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 03](https://kmartwork.github.io/reading-notes/401/401_class03)
 - [Class 04](https://kmartwork.github.io/reading-notes/401/401_class04)
 
+## Week 2
+- [Class 06](https://kmartwork.github.io/reading-notes/401/401_class06)
