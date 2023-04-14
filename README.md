@@ -75,3 +75,4 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 06](https://kmartwork.github.io/reading-notes/401/401_class06)
 - [Class 07](https://kmartwork.github.io/reading-notes/401/401_class07)
 - [Class 08](https://kmartwork.github.io/reading-notes/401/401_class08)
+- [Stacks and Queues](https://kmartwork.github.io/reading-notes/401/401_stacksAndQueues)
