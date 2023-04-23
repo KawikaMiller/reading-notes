@@ -63,7 +63,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [SQL](https://kmartwork.github.io/reading-notes/401/prework/SQL/sql_notes)
 - [Terminal Practice](https://kmartwork.github.io/reading-notes/401/prework/practice_terminal)
 
-## Week 1
+## Week 1 - Node, Express, Routing, and SQL
 - [Class 01](https://kmartwork.github.io/reading-notes/401/401_class01)
 - [Engineering Prep](https://kmartwork.github.io/reading-notes/401/401_engineeringPrep)
 - [Data Structures & Algorithms Prep](https://kmartwork.github.io/reading-notes/401/401_dataStructuresAndAlgorithmsPrep)
@@ -71,12 +71,18 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 03](https://kmartwork.github.io/reading-notes/401/401_class03)
 - [Class 04](https://kmartwork.github.io/reading-notes/401/401_class04)
 
-## Week 2
+## Week 2 - Authorization and Access Control
 - [Class 06](https://kmartwork.github.io/reading-notes/401/401_class06)
 - [Class 07](https://kmartwork.github.io/reading-notes/401/401_class07)
 - [Class 08](https://kmartwork.github.io/reading-notes/401/401_class08)
 - [Stacks and Queues](https://kmartwork.github.io/reading-notes/401/401_stacksAndQueues)
 
-## Week 3
+## Week 3 - Events, Sockets, and Binary Trees
 - [Class 11](https://kmartwork.github.io/reading-notes/401/401_class11)
 - [Class 12](https://kmartwork.github.io/reading-notes/401/401_class12)
+- [Class 13](https://kmartwork.github.io/reading-notes/401/401_class13)
+- Class 14 - n/a
+- [Class 15](https://kmartwork.github.io/reading-notes/401/401_class15_trees)
+
+## Week 4 - AWS
+- [Class 16](https://kmartwork.github.io/reading-notes/401/401_class16)
