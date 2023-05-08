@@ -86,3 +86,11 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 
 ## Week 4 - AWS
 - [Class 16](https://kmartwork.github.io/reading-notes/401/401_class16)
+- [Class 17](https://kmartwork.github.io/reading-notes/401/401_class17)
+- [Class 18](https://kmartwork.github.io/reading-notes/401/401_class18)
+- [Class 19](https://kmartwork.github.io/reading-notes/401/401_class19)
+
+## Week 5 - Midterm - No reading
+
+## Week 6 - React Functional Components
+- [Class 26](https://kmartwork.github.io/reading-notes/401/401_class26)
