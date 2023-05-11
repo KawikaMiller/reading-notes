@@ -96,3 +96,4 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 26](https://kmartwork.github.io/reading-notes/401/401_class26)
 - [Class 27](https://kmartwork.github.io/reading-notes/401/401_class27)
 - [Class 28](https://kmartwork.github.io/reading-notes/401/401_class28)
+- [Class 29](https://kmartwork.github.io/reading-notes/401/401_class29)
