@@ -90,7 +90,8 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 18](https://kmartwork.github.io/reading-notes/401/401_class18)
 - [Class 19](https://kmartwork.github.io/reading-notes/401/401_class19)
 
-## Week 5 - Midterm - No reading
+## ~~Week 5 - Midterm~~
+- No Reading
 
 ## Week 6 - React Functional Components
 - [Class 26](https://kmartwork.github.io/reading-notes/401/401_class26)
