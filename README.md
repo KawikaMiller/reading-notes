@@ -65,8 +65,8 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 
 ## Week 1 - Node, Express, Routing, and SQL
 - [Class 01](https://kmartwork.github.io/reading-notes/401/401_class01)
-- [Engineering Prep](https://kmartwork.github.io/reading-notes/401/401_engineeringPrep)
-- [Data Structures & Algorithms Prep](https://kmartwork.github.io/reading-notes/401/401_dataStructuresAndAlgorithmsPrep)
+  - [Engineering Prep](https://kmartwork.github.io/reading-notes/401/401_engineeringPrep)
+  - [Data Structures & Algorithms Prep](https://kmartwork.github.io/reading-notes/401/401_dataStructuresAndAlgorithmsPrep)
 - [Class 02](https://kmartwork.github.io/reading-notes/401/401_class02)
 - [Class 03](https://kmartwork.github.io/reading-notes/401/401_class03)
 - [Class 04](https://kmartwork.github.io/reading-notes/401/401_class04)
@@ -81,7 +81,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 11](https://kmartwork.github.io/reading-notes/401/401_class11)
 - [Class 12](https://kmartwork.github.io/reading-notes/401/401_class12)
 - [Class 13](https://kmartwork.github.io/reading-notes/401/401_class13)
-- Class 14 - n/a
+- ~~Class 14~~
 - [Class 15](https://kmartwork.github.io/reading-notes/401/401_class15_trees)
 
 ## Week 4 - AWS
@@ -89,6 +89,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 17](https://kmartwork.github.io/reading-notes/401/401_class17)
 - [Class 18](https://kmartwork.github.io/reading-notes/401/401_class18)
 - [Class 19](https://kmartwork.github.io/reading-notes/401/401_class19)
+- ~~Class 20~~
 
 ## ~~Week 5 - Midterm~~
 - No Reading
