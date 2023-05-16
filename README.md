@@ -100,3 +100,7 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 28](https://kmartwork.github.io/reading-notes/401/401_class28)
 - [Class 29](https://kmartwork.github.io/reading-notes/401/401_class29)
 - [Class 30](https://kmartwork.github.io/reading-notes/401/401_class30)
+
+## Week 7 - Context API
+- [Class 31](https://kmartwork.github.io/reading-notes/401/401_class31)
+- [Class 32](https://kmartwork.github.io/reading-notes/401/401_class32)
