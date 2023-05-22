@@ -107,3 +107,6 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 33](https://kmartwork.github.io/reading-notes/401/401_class33)
 - [Class 34](https://kmartwork.github.io/reading-notes/401/401_class34)
 - [Class 35](https://kmartwork.github.io/reading-notes/401/401_class35)
+
+## Week 8 - Redux
+- [Class 36](https://kmartwork.github.io/reading-notes/401/401_class36)
