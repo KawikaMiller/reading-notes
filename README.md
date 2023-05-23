@@ -110,3 +110,4 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 
 ## Week 8 - Redux
 - [Class 36](https://kmartwork.github.io/reading-notes/401/401_class36)
+- [Class 37](https://kmartwork.github.io/reading-notes/401/401_class37)
