@@ -112,8 +112,9 @@ This web page is meant to keep track of the daily notes &/o questions for Code 2
 - [Class 36](https://kmartwork.github.io/reading-notes/401/401_class36)
 - [Class 37](https://kmartwork.github.io/reading-notes/401/401_class37)
 - [Class 38](https://kmartwork.github.io/reading-notes/401/401_class38)
-- Class 39
-- Class 40
+- [Class 39](https://kmartwork.github.io/reading-notes/401/401_class39)
+- ~~Class 40~~
 
 ## Week 9 - React Native
 - [Class 41](https://kmartwork.github.io/reading-notes/401/401_class41)
+- [Class 42](https://kmartwork.github.io/reading-notes/401/401_class42)
